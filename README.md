@@ -35,4 +35,6 @@ Based on this graph, it is obvious that movies that had a budget between 0 an 10
 
 ![Graphs](https://github.com/codekorn/mod_1_movies/blob/master/graphs/margin1.png)
 
+  Based on this data, we believe it would be wise to make low budget R Rated movies that have the potential to deliver very large returns on investment. When searching for which directors had the most success with low budget R Rated films, we saw that James Wan was the director that came up the most in our dataset. He has previously directed R rated titles such as "Saw", "The Conjuring", and "Insidious". 
+
 
