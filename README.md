@@ -1,2 +1,3 @@
 # mod_1_movies
-End of Mod project
+Scraped movie data from Box Office Mojo and grabbed two API'S on our data to get rating, director and budget info among others.
+
