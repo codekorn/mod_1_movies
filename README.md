@@ -1,7 +1,7 @@
 # Data Analysis of Successful Movies
   This project was done by Menachi Korn and Atiar Rahman. Our objective was to analyze data about movies to make suggestions as to what kind of movies can be potentially successful in the future. 
 
-  We first scraped data from Box Office Mojo to get the top grossing movies for every year from 1989 to 2019. Then two APIs were called to get rating, director and budget info among other information. This information was put into a Pandas Dataframe as well as a SQL database.
+  We first scraped data from Box Office Mojo to get the top grossing movies for every year from 1989 to 2019. Then two APIs were called to get ratings, director and budget info among other information. This information was put into a Pandas Dataframe as well as a SQL database.
 The data was then analyzed to first see if there is any correlation between critic ratings and movie world wide gross. The dataframe was also cleaned to remove movies that did not gross The graph below shows if the there is any correlation between a movie's world wide gross and it's metascore.
 
 ![Graphs](https://github.com/codekorn/mod_1_movies/blob/master/graphs/World%20Wide%20Gross%20vs%20Metascore.png)
